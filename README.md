@@ -10,5 +10,6 @@
 </div>
 
 Not a switch emulator but code example for making a single page React application run with Flask. My code and images used are not authorized nor endorsed by Nintendo or in anyway.
+ 
 
 ![demo](./images/desktop-demo.gif)
