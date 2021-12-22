@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+*:focus {
+    outline: none !important;
+}
+html, 
+body {
+    height: 100%;
+}
+#app {
+    margin: 0;
+}
+
+
+
+.slick-slide {
+    margin: 0 5px !important;
+    max-width: 200px !important;
+    max-height: 200px !important;
+    width: 150px !important;
+    height: 150px !important;
+    margin-top: 25px !important;
+}
+
+.slick-slide.slick-center {
+    margin-top: 0px !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+    width: 200px !important;
+    height: 200px !important;
+}
+
+.slick-slide.slick-center img{
+    height: 200px !important;
+    width: 200px !important;
+   
+  }
