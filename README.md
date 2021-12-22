@@ -13,3 +13,5 @@ Not a switch emulator but code example for making a single page React applicatio
  
 
 ![demo](./images/desktop-demo.gif)
+
+Link to demo [https://amiibo-selector.herokuapp.com/](https://amiibo-selector.herokuapp.com/) 

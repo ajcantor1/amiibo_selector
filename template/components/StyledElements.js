@@ -9,7 +9,7 @@ export const MainContainer = styled.div`
     flex-direction: row;
     @media screen and (max-width: 600px) {
         transform-origin: center left;
-        transform: rotate(-90deg) translate(-300px, 150px) scale(0.6);
+        transform: rotate(-90deg) translate(-400px, 180px) scale(0.7);
   
      
     }
