@@ -30,7 +30,7 @@ const App = () => {
 
     useEffect(() => {
         if(!characters) {
-            axios.get("http://localhost:5000/characters").then((response) => {
+            axios.get("https://amiibo-selector.herokuapp.com/characters").then((response) => {
                 setCharacters(response.data.results);
             });
         }
