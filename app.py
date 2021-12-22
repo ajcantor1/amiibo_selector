@@ -26,3 +26,5 @@ def serve_content(pngFile):
 def serve_characters(pngFile):
     return send_file(f'/static/images/characters/{pngFile}')
   
+if __name__ == "__main__":
+    app.run()
